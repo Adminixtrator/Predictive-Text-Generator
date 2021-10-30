@@ -30,4 +30,4 @@ Yo! You can check out the original project here:
 _Urghh.. Literally I am busy rn so I didn't add an hyperlink.. send a PR, samritan._
 
 
-Don't forget, It's October and there's a HacktobeFest!
+Don't forget, It's October and there's a HacktoberFest!
